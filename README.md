@@ -7,10 +7,10 @@ gem install berkshelf
 
 # Usage
 
-berks init ~/chef-kannel
-cd ~/chef-kannel
-sudo bundle install
-vagrant up
+*berks init ~/chef-kannel
+*cd ~/chef-kannel
+*sudo bundle install
+*vagrant up
 
 # Attributes
 
