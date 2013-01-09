@@ -7,7 +7,7 @@ gem install berkshelf
 
 # Usage
 
-berks init ~/chef-terrabook
+berks init ~/chef-kannel
 cd ~/chef-kannel
 sudo bundle install
 vagrant up
@@ -19,4 +19,5 @@ vagrant up
 # Author
 
 Author:: Krishnen Chedambarum krishnen.chedamabrum@logossmartcard.com
+
 
