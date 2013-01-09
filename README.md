@@ -2,8 +2,8 @@
 
 # Requirements
 
-gem install bundler
-gem install berkshelf
+*	gem install bundler
+*	gem install berkshelf
 
 # Usage
 
@@ -18,6 +18,8 @@ gem install berkshelf
 
 # Author
 
-Author:: Krishnen Chedambarum krishnen.chedamabrum@logossmartcard.com
+Krishnen Chedambarum 
+
+krishnen.chedambarum@logossmartcard.com
 
 
